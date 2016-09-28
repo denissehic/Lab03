@@ -1,0 +1,13 @@
+#border {
+  text-align: center;
+
+    border-style: solid;
+    border-color: red;
+    width: 20%;
+
+  }
+  body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif
+  }
